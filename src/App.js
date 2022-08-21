@@ -6,8 +6,12 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import ScreenLanding from './ScreenLanding';
 import ScreenReg from './ScreenReg';
 import ScreenLogin from './ScreenLogin';
-import PrintEnteredDetails from './PrintEnteredDetails';
 import FetchLocalPrintDetails from './FetchLocalPrint';
+// import ScreenLanding from './ScreenLanding';
+// import ScreenReg from './ScreenReg';
+// import ScreenLogin from './ScreenLogin';
+// import PrintEnteredDetails from './PrintEnteredDetails';
+// import FetchLocalPrintDetails from './FetchLocalPrint';
 
 //SCREENS END
 
