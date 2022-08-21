@@ -7,11 +7,7 @@ import ScreenLanding from './ScreenLanding';
 import ScreenReg from './ScreenReg';
 import ScreenLogin from './ScreenLogin';
 import FetchLocalPrintDetails from './FetchLocalPrint';
-// import ScreenLanding from './ScreenLanding';
-// import ScreenReg from './ScreenReg';
-// import ScreenLogin from './ScreenLogin';
-// import PrintEnteredDetails from './PrintEnteredDetails';
-// import FetchLocalPrintDetails from './FetchLocalPrint';
+//kjdifihghsghkfhg
 
 //SCREENS END
 
